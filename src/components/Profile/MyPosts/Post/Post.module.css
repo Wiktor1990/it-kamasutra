@@ -1,0 +1,14 @@
+.Post {
+    grid-area: c;
+    color: green;
+}
+
+.item{
+    color: white;
+}
+
+.item img{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+}
